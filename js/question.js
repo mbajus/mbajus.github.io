@@ -333,7 +333,7 @@ const quiz = [
     },
     {
         q:'Co oznacza taki znak na kanale ?',
-        options: [' Prawa burta','Nie wplywad - zakaz zeglugi','Lewa burta'],        
+        options: ['Zakaz cumowania','Dozwolone cumowanie','Punkt poboru wody'],        
 	answer: 1,
     img: 'img/16.png',
         topic: "locja"
@@ -787,7 +787,7 @@ const quiz = [
         q:'Plynac na Zatoce Gdaoskiej do portu w kierunku zachodnim w poblizu wejscia zaobserwowano tyke bez znaku szczytowego jak na rysunku obok. Jak ja minad?',
         options: ['Prawa burta','Lewa burta','Mozna minad z obu stron nie za blisko'],
 	answer: 0,
-    img: 'img/65.png',
+    img: 'img/66.png',
         topic: "locja"
     },
     {
@@ -992,7 +992,7 @@ const quiz = [
         q:'Jacht (czerwony) bez silnika stoi na przystani jak na rysunku. Wiatr strzalka niebieska. Cuma rufowa zalozona na boi na biegowo, dziobowa na biegowo. Jak NAJBEZPIECZNIEJ odejsd pod zaglami? ',
         options: ['Luzowad cume dziobowa, wybierad cume rufowa i przeniesd ja na dziob na biegowo, oddad cume dziobowa, po ustawieniu sie pod wiatr postawid zagle, oddad cume dziobowa i odejsd na zaglach','Luzowad cume dziobowa, wybierad cume rufowa oddad cume dziobowa i rufowa, zdryfowad wstecz, postawid zagle i odejsd','Oddad cume dziobowa i rufowa, postawid zagle i odejsd wstecz'],
 	answer: 0,
-    img: 'img/72.png',
+    img: 'img/73.png',
         topic: "manewr"
     },
     {
